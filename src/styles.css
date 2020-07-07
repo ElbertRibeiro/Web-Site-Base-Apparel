@@ -6,3 +6,7 @@ text-align: center;
 .attribution a { 
 color: hsl(228, 45%, 44%); 
 }
+
+.Text{
+    background-image: url(assets/bg-pattern-desktop.svg);
+}
