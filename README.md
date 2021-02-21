@@ -1,5 +1,7 @@
 # Frontend Mentor - Base Apparel coming soon page
 
+https://github.com/vinitrai/base-apparel-landing-page
+
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
