@@ -1,30 +1,10 @@
-.attribution { 
-    font-size: 11px; 
-    text-align: center; 
-    }
+body {
+    display: flex;
+    font-family: "Josefin-Sans";
     
-    .attribution a { 
-    color: hsl(228, 45%, 44%); 
-    }
-    
-    p, h1 {
-        font-family: Josefin-Sans;
-        font-family: "Josefin-Sans";
-        src: url("https://fonts.google.com/specimen/Josefin+Sans");
-        font-weight: 300, 400, 600;
-        font-size: 16px;
-    }
-    
-    body {
-        display: flex;
-    }
-    
-    .Image {
-        position: absolute;
-        right: 0;
-        width: 610px;
-    }
-    
+    /*    font-weight: 300, 400, 600;*/
+    font-size: 16px;
+
     .Home {
         background-image: url("./assets/bg-pattern-desktop.svg");
         background-size: 100% 100%;
@@ -32,10 +12,25 @@
         width: 300px;
         padding: 323px 210px;
         float: left;
+
+        .Logo {
+            width: 250px;
+            position: relative;
+        }
     }
-    
-    .Logo {
-        width: 250px;
-        position: relative;
+
+    .Image {
+        position: absolute;
+        right: 0;
+        width: 610px;
     }
-    
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+
+    a {
+        color: hsl(228, 45%, 44%); 
+    }
+}
