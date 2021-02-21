@@ -2,7 +2,7 @@
 
 https://github.com/vinitrai/base-apparel-landing-page
 
-![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Base Apparel coming soon page coding challenge](.github/desktop-preview.jpg)
 
 ## Welcome! 👋
 
