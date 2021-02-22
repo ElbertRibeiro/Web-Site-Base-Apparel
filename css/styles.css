@@ -25,7 +25,7 @@ body .Home .Logo {
 }
 
 body .Image {
-  position: absolute;
+  position: relative;
   right: 0;
   width: 610px;
 }
