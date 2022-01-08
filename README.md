@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Base Apparel é uma site simples, construido para uma loja de roupas fictícia. 
+O Base Apparel é uma site simples, construido para uma loja de roupas fictícia. Este site é o resultado do desafio realizado apartir da plataforma [Frontendmentor](https://www.frontendmentor.io/).
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](.github/desktop-design.jpg).
